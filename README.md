@@ -15,7 +15,7 @@
   - Сохранение результатов в Local Storage;
   - страница добавлена на GitHub
 
-Ссылка: https://sanderbest.github.io/seaBattle/
+Ссылка: https://sandervanoff.github.io/seaBattle/
 
 ![YRzSq08mEiAMMC-Y](https://user-images.githubusercontent.com/61217980/129874200-23d44341-6561-4712-b2a6-12af13362c29.png)
 
